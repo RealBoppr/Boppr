@@ -1,5 +1,5 @@
 ## Social Links
-Discord | ~~Boppr#1808~~ ~~Boppr#8856~~ Boppr#0521 [Server](https://discord.gg/UemfQ8js5w)
+Discord | ~~Boppr#1808~~ ~~Boppr#8856~~ Boppr#0521 [[Server]](https://discord.gg/UemfQ8js5w)
 
 Guilded | [Boppr](https://www.guilded.gg/boppr) [Backup]
 
