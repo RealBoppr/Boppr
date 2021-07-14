@@ -1,7 +1,7 @@
 ## Social Links
-Discord | Boppr#0001 [[Server]](https://discord.gg/UemfQ8js5w)
+Discord | Boppr#0001 [[Server]](https://discord.gg/b8YuBScNHe)
 
-Guilded | [Boppr](https://www.guilded.gg/boppr) [Backup]
+Guilded | [Boppr](https://www.guilded.gg/boppr)
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=realboppr&count_private=true&show_icons=true&title_color=600050&text_color=760052&icon_color=3C0082&bg_color=15,1C003F,000000&hide_border=true&border_radius=10)
