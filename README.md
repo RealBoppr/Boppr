@@ -1,5 +1,5 @@
 ## Social Links
-Discord | Boppr#0001 [[Server]](https://discord.gg/b8YuBScNHe)
+Discord | [Boppr#0001](https://discordapp.com/users/762362283195498546) [[Server]](https://discord.gg/b8YuBScNHe)
 
 Guilded | [Boppr](https://www.guilded.gg/boppr)
 
