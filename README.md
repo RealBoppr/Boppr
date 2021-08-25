@@ -1,6 +1,5 @@
 ## Social Links
 [![Discord](https://img.shields.io/static/v1?label=Boppr&message=Discord&color=blueviolet&style=for-the-badge&logo=discord)](https://discordapp.com/users/762362283195498546)
-[![Server](https://img.shields.io/static/v1?label=ComfyKingdom&message=Server&color=blueviolet&style=for-the-badge&logo=discord)](https://discord.gg/b8YuBScNHe)
 
 [![Guilded](https://img.shields.io/static/v1?label=Boppr&message=Guilded&color=yellow&style=for-the-badge)](https://www.guilded.gg/boppr)
 
